@@ -23,39 +23,45 @@
 
 ### 🛠 **Languages and Tools:**
 
-
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60" />
+    <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
+  </a>
+  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer">
+    <img src="https://react-icons.github.io/react-icons/favicon.ico" alt="React Icons" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
 </p>
 
