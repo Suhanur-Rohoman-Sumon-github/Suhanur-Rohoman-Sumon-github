@@ -1,25 +1,15 @@
 <img src="https://i.ibb.co.com/0JrNGsB/Blue-And-Green-Professional-Technology-Linked-In-Banner.png" alt="Suhanur Rohoman Sumon GitHub Banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanur-rohoman-sumon-github&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### 📊 **GitHub Stats:**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanur-rohoman-sumon-github&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
----
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suhanur-rohoman-sumon-github&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanur-rohoman-sumon-github&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanur-rohoman-sumon-github&" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🌟 **Connect with Me:**
@@ -88,6 +78,27 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhanur-rohoman-sumon-github&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suhanur-rohoman-sumon-github&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
+
 
 ---
 
