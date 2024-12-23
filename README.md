@@ -4,13 +4,7 @@
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanur-rohoman-sumon-github&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanur-rohoman-sumon-github&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanur-rohoman-sumon-github&" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhanur-Rohoman-Sumon-github&theme=highcontrast&hide_border=true&background=#000" />
 </p>
 
 ---
