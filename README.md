@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%; border: 2px solid #FFF; padding: 5px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
@@ -45,6 +45,9 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
+  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer">
+    <img src="https://react-icons.github.io/react-icons/favicon.ico" alt="React Icons" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
+  </a>
 </p>
 
 <p align="center">
@@ -60,14 +63,19 @@
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
   </a>
-  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer">
-    <img src="https://react-icons.github.io/react-icons/favicon.ico" alt="React Icons" width="60" height="60" style="border-radius: 50%; border: 2px solid #ddd; padding: 5px;" />
-  </a>
+  
 </p>
 
 ---
+## :eyes: Current overview
 
+##### 🔭 I’m working - Standard-insights. 
+##### 🌱 I’m exploring -Deveops to strengthen myself at the backend. 
+##### 👯 I’m looking - To collaborate on open-source projects. 
+##### 🤔 I’m trying - To make myself a senior developer. 
+##### ⚡ Fun fact - I love to solve real-time problems.
 
+---
 
 ### 🏆 **Achievements and Trophies:**
 <p align="center">
