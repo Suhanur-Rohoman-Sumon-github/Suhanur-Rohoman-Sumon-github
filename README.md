@@ -1,6 +1,7 @@
 <img src="https://i.ibb.co.com/jZMKP4MF/Generated-Image-August-31-2025-1-36-PM.jpg" 
      alt="Suhanur Rohoman Sumon GitHub Banner" 
-     style="height:100vh; width:100%; object-fit:cover;" />
+     width="100%" height="400px"/>
+
 
 
 
