@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/0JrNGsB/Blue-And-Green-Professional-Technology-Linked-In-Banner.png" alt="Suhanur Rohoman Sumon GitHub Banner" />
+<img src="https://ibb.co.com/Tq8Xxh85" alt="Suhanur Rohoman Sumon GitHub Banner" />
 
 ---
 
