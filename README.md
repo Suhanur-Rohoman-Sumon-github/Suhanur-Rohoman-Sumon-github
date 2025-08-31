@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/Tq8Xxh85" alt="Suhanur Rohoman Sumon GitHub Banner" />
+<img src="https://i.ibb.co.com/jZMKP4MF/Generated-Image-August-31-2025-1-36-PM.jpg" alt="Suhanur Rohoman Sumon GitHub Banner" />
 
 ---
 
