@@ -1,10 +1,7 @@
 <img src="https://i.ibb.co.com/JwskXtBV/cover.jpg" 
      alt="Suhanur Rohoman Sumon GitHub Banner" 
      width="100%" height="400px"/>
-
-
-
-
+     
 ---
 
 ### 📊 **GitHub Stats:**
@@ -75,23 +72,14 @@
 ## :eyes: Current overview
 
 ##### 🔭 I’m working - Standard-insights. 
-##### 🌱 I’m exploring -Deveops to strengthen myself at the backend. 
-##### 👯 I’m looking - To collaborate on open-source projects. 
-##### 🤔 I’m trying - To make myself a senior developer. 
+##### 🌱 I’m exploring -DevOps to strengthen myself at the backend. 
+##### 👯 I’m looking to collaborate on open-source projects. 
+##### 🤔 I’m trying to make myself a senior developer. 
 ##### ⚡ Fun fact - I love to solve real-time problems.
 
 ---
 
-### 🏆 **Achievements and Trophies:**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suhanur-rohoman-sumon-github&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanur-rohoman-sumon-github&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
